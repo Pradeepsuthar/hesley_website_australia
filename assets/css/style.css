@@ -100,7 +100,8 @@ body {
 }
 
 .navigation__bar .brand__logo img{
-    width: 100px;
+    width: 120px;
+    height: 80px;
 }
 
 /* Mobile Navigation bar */
@@ -112,7 +113,8 @@ body {
     background-color: #fff;
 }
 .m__navigation__bar .m__brand__logo img{
-    width: 50px;
+    width: 100px;
+    height: 60px;
 }
 /* Top Banner */
 .top__banner{
